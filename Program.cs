@@ -28,7 +28,7 @@ namespace trabalho_conversão_de_bases
                     Conversor_hex_decimal(numero, base_escolhida);
 
                 }
-                //binario-ok
+                //binario
                 else if (base_modificada == 1)
                 {
                     Console.WriteLine("qual o numero nesta base");
