@@ -1,0 +1,4 @@
+trabalho feito para converter todas as bases de acordo com a escolha do usuario como por exemplo a pessoa deseja converter 67(base octal) para hexadecimal 
+o programa irá converter o numero em octal para decimal e depois converter esse mesmo numero em decimal para hexadecimal dando resultado de 37
+///work done to convert all bases according to the user's choice, for example the person wants to convert 67(octal base) to hexadecimal
+the program will convert the number in octal to decimal and then convert that same number in decimal to hexadecimal giving the result of 37
